@@ -17,4 +17,10 @@ demos.
 
 ## Deployment
 
+This is a simple web project, deployment
+ can be on any web server or even local
+ file system. 
+
 ## How To Contribute
+
+Practice so you will be familiar with the tool
