@@ -23,7 +23,9 @@ This is a simple web project, deployment
 
 ## How To Contribute
 
-Practice so you will be familiar with the tool
+Practice so you will be familiar with the tool.
+Please fork this repository and then issue Pull requests for review
+
 
 ## Copyright
 
