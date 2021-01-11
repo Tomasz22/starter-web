@@ -24,3 +24,7 @@ This is a simple web project, deployment
 ## How To Contribute
 
 Practice so you will be familiar with the tool
+
+## Copyright
+
+2014 Git.Training.
