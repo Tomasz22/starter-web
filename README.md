@@ -27,4 +27,4 @@ Practice so you will be familiar with the tool
 
 ## Copyright
 
-2014 Git.Training.
+2014 Git.Training 2021
