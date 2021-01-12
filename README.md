@@ -28,6 +28,6 @@ Practice so you will be familiar with the tool.
 Please fork this repository and then issue Pull requests for review
 
 
-## Copyright
+### Copyright
 
-2014 Git.Training 2021
+2014 Git.Training All rights reserved.
